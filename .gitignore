@@ -1,0 +1,11 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .pyc files
+*.pyc
+
+*.cpython-39
+
+*.html
+
+config/DB.xml
